@@ -71,3 +71,4 @@ DELETE FROM players WHERE height = 180;
 SELECT * FROM players;
 
 SELECT COUNT(*) FROM players;
+
